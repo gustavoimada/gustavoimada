@@ -1,16 +1,27 @@
-## Hi there 👋
+I'm a Computer Science student currently learning and exploring different areas of technology.
 
-<!--
-**gustavoimada/gustavoimada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I spend most of my time improving my skills in programming, databases, and problem solving, while also trying to understand how things work at a deeper level — especially when it comes to low-level concepts.
 
-Here are some ideas to get you started:
+Lately, I've also been getting into crypto and Web3, learning how things work in that space and exploring its possibilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interests
+💻 Programming and software development
+🗄️ Databases (mainly Oracle & SQL)
+⚙️ Low-level concepts (memory, assembly, architecture)
+📊 Problem solving
+🪙 Crypto & Web3
+🛠️ Tech Stack
+Languages: C, Java, SQL, Assembly
+
+Tools: Git, Linux
+📈 Currently
+Studying Data Structures & Algorithms
+Improving database knowledge
+Exploring Web3 and crypto fundamentals
+💬 Ask Me About
+SQL & databases
+Programming basics
+Low-level logic
+📫 Contact
+
+(Add your contact here)
