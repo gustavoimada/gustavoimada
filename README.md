@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Guilherme
+# 👋 Hey, I'm Gustavo
 
 ## 🚀 About Me
 I'm a Computer Science student exploring back-end development and low-level systems.
@@ -6,8 +6,7 @@ I spend most of my time building things with code, diving deep into databases, a
 
 ## 💡 Interests
 - ⚙️ Back-end Development
-- 🗄️ Databases (Oracle & SQL)
-- 🔩 Low-level concepts (memory, assembly)
+- 🗄️ Databases 
 - 📊 Data Structures & Algorithms
 - 🪙 Crypto & Web3
 - 🚀 Entrepreneurship & Startups
