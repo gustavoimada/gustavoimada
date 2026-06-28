@@ -10,12 +10,11 @@ I like building projects that connect theory with practical software: web applic
 - Backend development with **REST APIs**, authentication, persistence and business rules
 - Databases with **PostgreSQL**, **MongoDB** and SQL modeling
 - Low-level programming with **C**, **Linux**, process scheduling, filesystems and data structures
-- Academic projects turned into portfolio-ready repositories
 
 ## 🛠️ Tech Stack
 
 - **Languages:** C · C++ · Java · JavaScript · SQL
-- **Frontend:** React · Vue · Styled Components · Axios
+- **Frontend:** React · Vue
 - **Backend:** Node.js · Express · Spring Boot · JPA · JWT
 - **Databases:** PostgreSQL · MongoDB · Oracle
 - **Tools & Concepts:** Git · Linux · Maven · REST APIs · Data Structures · Algorithms · Operating Systems · IoT
