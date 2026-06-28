@@ -11,7 +11,7 @@ I like building projects that connect theory with practical software: web applic
 - Databases with **PostgreSQL**, **MongoDB** and SQL modeling
 - Low-level programming with **C**, **Linux**, process scheduling, filesystems and data structures
 
-  <p align="left">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,vue,nodejs,express,spring,postgres,mongodb,git,linux,maven" />
 </p>
 
