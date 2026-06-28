@@ -2,7 +2,7 @@
 
 I'm a Computer Science student focused on **full-stack development**, **backend systems**, **databases** and **low-level programming**.
 
-I like building projects that connect theory with practical software: web applications, REST APIs, database-driven systems, IoT prototypes, data structures, algorithms and C programs that explore how operating systems work under the hood.
+I like building projects that connect theory with practical software: web applications, REST APIs, database-driven systems, IoT prototypes, data structures, algorithms and C programs that explore how operating systems work under the hood. I keep six repositories pinned as my main portfolio highlights, but this README also includes a **More Projects** section with additional work across different languages, frameworks and computer science topics.
 
 ## 🚀 Main Focus
 
@@ -39,8 +39,6 @@ I like building projects that connect theory with practical software: web applic
 - Data structures, algorithms and performance analysis
 - Full-stack applications with cleaner documentation and deployment-ready structure
 - Crypto, blockchain fundamentals and Web3 concepts
-
-## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/guimada)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:gu.imada@hotmail.com)
