@@ -16,12 +16,13 @@ I like building projects that connect theory with practical software: web applic
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,vue,nodejs,express,spring,postgres,mongodb,git,linux,maven" />
 </p>
 
-## 🗂️ More Projects
+## 🧩 More Projects
 
 | Project | Focus |
 |---|---|
-| [JavaScript Program Interpreter](https://github.com/gustavoimada/js-program-interpreter) | Lightweight JavaScript interpreter written in C, with lexical analysis, parsing and source-code execution. |
-| [DentalFX](https://github.com/gustavoimada/dentalfx) | JavaFX, Maven, PostgreSQL, JasperReports | Desktop system for dental clinic scheduling, patient management, appointments, reports and database integration. |
+| [Data Structures Implementations](https://github.com/gustavoimada/data-structures-implementations) | Collection of data structures implemented in Java, C and C++.
+| [JavaScript Program Interpreter](https://github.com/gustavoimada/js-program-interpreter) | Lightweight JavaScript interpreter written in C, featuring lexical analysis, parsing and source-code execution. |
+| [DentalFX](https://github.com/gustavoimada/dentalfx) | JavaFX desktop application with Maven, PostgreSQL and JasperReports for dental clinic scheduling, patient management, appointments and reports. |
 | [PlayMySongs](https://github.com/gustavoimada/play-my-songs) | Spring Boot application for music registration, search and playback with MongoDB. |
 
 ## 📚 Currently Improving
