@@ -20,10 +20,12 @@ I like building projects that connect theory with practical software: web applic
 
 | Project | Focus |
 |---|---|
-| [Data Structures Implementations](https://github.com/gustavoimada/data-structures-implementations) | Collection of data structures implemented in Java, C and C++.
+| [Process Lifecycle Simulator](https://github.com/gustavoimada/process-lifecycle-simulator) | C terminal simulator for process lifecycle management with linked lists, Round Robin scheduling, FIFO queues, priority handling and execution reports. |
+| [Coding Interview Solutions](https://github.com/gustavoimada/coding-interview-solutions) | Structured coding interview practice repository with LeetCode-style solutions, explanations, complexity analysis and data structures and algorithms implementations. |
+| [Data Structures Implementations](https://github.com/gustavoimada/data-structures-implementations) | Collection of data structures implemented in Java, C and C++. |
 | [JavaScript Program Interpreter](https://github.com/gustavoimada/js-program-interpreter) | Lightweight JavaScript interpreter written in C, featuring lexical analysis, parsing and source-code execution. |
 | [DentalFX](https://github.com/gustavoimada/dentalfx) | JavaFX desktop application with Maven, PostgreSQL and JasperReports for dental clinic scheduling, patient management, appointments and reports. |
-| [PlayMySongs](https://github.com/gustavoimada/play-my-songs) | Spring Boot application for music registration, search and playback with MongoDB. |
+| [PlayMySongs](https://github.com/gustavoimada/play-my-songs) | Spring Boot application for music registration, search, audio upload and playback with MongoDB. |
 
 ## 📚 Currently Improving
 
