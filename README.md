@@ -4,6 +4,8 @@ I'm a Computer Science student focused on **full-stack development**, **backend 
 
 I like building projects that connect theory with practical software: web applications, REST APIs, database-driven systems, IoT prototypes, data structures, algorithms and C programs that explore how operating systems work under the hood. I keep some repositories pinned as my main portfolio highlights, but this README also includes a **More Projects** section with additional work across different languages, frameworks and computer science topics, especially a general repository dedicated to data structures studied and implemented by me.
 
+I'm also Founder & Software Developer at Pulso Sports Tech, where I work on systems involving web applications, APIs, video processing, IoT and cloud infrastructure.
+
 ## 🛠️ Tech Stack
 
 - **Languages:** C · C++ · Java · JavaScript · SQL
