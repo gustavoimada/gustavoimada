@@ -8,11 +8,11 @@ I'm also Founder & Software Developer at Pulso Sports Tech, where I work on syst
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C · C++ · Java · JavaScript · SQL
-- **Frontend:** React · Vue
+- **Languages:** C · C++ · C# · Java · TypeScript · SQL
+- **Frontend:** React · Vue/Nuxt
 - **Backend:** Node.js · Express · Spring Boot · JPA · JWT
 - **Databases:** PostgreSQL · MongoDB · Oracle
-- **Tools & Concepts:** Git · Linux · Maven · REST APIs · Data Structures · Algorithms · Operating Systems · IoT
+- **Tools & Concepts:** Git · Linux · Docker · REST APIs · Data Structures · Algorithms · Operating Systems · IoT
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,vue,nodejs,express,spring,postgres,mongodb,git,linux,maven" />
